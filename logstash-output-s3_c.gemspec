@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name            = 'logstash-output-s3'
+  s.name            = 'logstash-output-s3_c'
   s.version         = '4.0.13'
   s.licenses        = ['Apache-2.0']
   s.summary         = "Sends Logstash events to the Amazon Simple Storage Service"

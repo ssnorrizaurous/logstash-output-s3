@@ -98,7 +98,7 @@ class LogStash::Outputs::S3 < LogStash::Outputs::Base
                                                                  })
 
 
-  config_name "s3"
+  config_name "s3_c"
   default :codec, "line"
 
   concurrency :shared
